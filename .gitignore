@@ -34,3 +34,4 @@ DerivedData/
 ## Godot Plugins
 godot_headers/*
 bin/*
+*.swp

@@ -1,0 +1,17 @@
+[config]
+name="gamebridge"
+binary="gamebridge.xcframework"
+
+initialization="register_gamebridge_types"
+deinitialization="unregister_gamebridge_types"
+
+[dependencies]
+linked=[]
+embedded=[]
+system=[]
+
+capabilities=[]
+
+files=[]
+
+[plist]
